@@ -7,11 +7,11 @@ En este repositorio se encuentra todo lo necesario para poder jugar en el servid
 1. Clonar o descargar este repositorio
 2. Ejecutar el archivo `LauncherFenix.exe` (Tranquilos, no es un virus)
    
-    ![](2022-12-16-17-54-43.png)
+    ![](img/2022-12-16-17-54-43.png)
 
 3. En la seccion de la derecha oprimir el boton "Nuevo Perfil"
    
-    ![](2022-12-16-17-57-36.png)
+    ![](img/2022-12-16-17-57-36.png)
 
 
 
